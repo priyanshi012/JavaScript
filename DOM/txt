@@ -1,0 +1,17 @@
+// document.getElementByClass("id name");
+// document.getElementById("id name");
+// document.getElementById("id name").getAttribute('class')
+// document.getElementById("id name").setAttribute('class','value') // 
+
+//innerText or textContent
+//innerText - actually visible text 
+//textContent - all text
+// innerHtml = sara code include html
+
+
+//documnet.querySelector('h1') // first h1 deta h
+//id
+//document.querySelector('#title')
+
+//convert into array
+// Array.from('name')
